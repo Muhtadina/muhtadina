@@ -4,23 +4,22 @@
 <h3 align="center">1DOM Newbie Poetic Programmer from Bangladesh - Since 2022</h3>
 </div>
 
-- My Work Life: [LinkedIn](muhtadina-tasin-62451320b); [UpWork](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)
+I am currently Computer Science and Engineering Student in North South University, Bangladesh. This is where I showcase uttermost projects of my academic & career life so far. I am 1DOM Amateur in the CSE field. Hope that I don't ruin another PC. May Allah bless me with sanity.
 
-<img align="right" alt="Pookie" width="400" src="https://github.com/Muhtadina/muhtadina/assets/116006207/789d307e-b699-4dd5-974d-c98eca2b55e6">
-
-- Email: **muhtadinaserniabattasin@gmail.com** 
-
+Whatsoever, I'm also available in job-websites as in **[LinkedIn](muhtadina-tasin-62451320b) and [UpWork](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)** as a ~~jobless~~ content writer. 
 - UpWork Content Writing: [Contact Here](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)
 
-- My Article Updates: [MEDIUM](https://medium.com/@muhtadinatasin)
+**I am also a Mini-Writer.** I occasionally write articles in **[MEDIUM](https://medium.com/@muhtadinatasin)**. I'm into creative writing too and so you'll find me in **[WattPad]()** too.
+- Wattpad Highlight: **[Click here](https://www.wattpad.com/story/240618128-i-found-you)**
 
-- Wattpad Highlight: [I FOUND YOU](https://www.wattpad.com/story/240618128-i-found-you)
+Email: **`muhtadinaserniabattasin@gmail.com`**
 
-- Fun fact: **I'm recently learning Japanese & turning into a UwU ~~attention seeking~~ girl.**
+Fun fact: ***I'm recently learning Japanese & turning into a UwU ~~attention seeking~~ girl.***
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<img align="right" alt="Pookie" width="400" src="https://github.com/Muhtadina/muhtadina/assets/116006207/789d307e-b699-4dd5-974d-c98eca2b55e6">
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
