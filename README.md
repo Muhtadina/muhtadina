@@ -9,17 +9,19 @@ I am currently Computer Science and Engineering Student in North South Universit
 Whatsoever, I'm also available in job-websites as in **[LinkedIn](muhtadina-tasin-62451320b) and [UpWork](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)** as a ~~jobless~~ content writer. 
 - UpWork Content Writing: [Contact Here](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)
 
-**I am also a Mini-Writer.** I occasionally write articles in **[MEDIUM](https://medium.com/@muhtadinatasin)**. I'm into creative writing too and so you'll find me in **[WattPad]()** too.
+**I am also a Mini-Writer.** I occasionally write articles in **[MEDIUM](https://medium.com/@muhtadinatasin)**. I'm into creative writing too and so you'll find me in **[WattPad](https://www.wattpad.com/user/d_pressed_chicken#:~:text=%40-,d_pressed_chicken,-5)** too.
 - Wattpad Highlight: **[Click here](https://www.wattpad.com/story/240618128-i-found-you)**
 
 Email: **`muhtadinaserniabattasin@gmail.com`**
+Telegram: `01746137489`
 
 Fun fact: ***I'm recently learning Japanese & turning into a UwU ~~attention seeking~~ girl.***
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<img align="right" alt="Pookie" width="400" src="https://github.com/Muhtadina/muhtadina/assets/116006207/789d307e-b699-4dd5-974d-c98eca2b55e6">
+<img align="right" alt="Pookie" width="275" src="https://github.com/Muhtadina/muhtadina/assets/116006207/789d307e-b699-4dd5-974d-c98eca2b55e6">
+<!--<img align="right" alt="Pookie" width="300" height="100" src="https://i.gifer.com/SsQa.gif">-->
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
