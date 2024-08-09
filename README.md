@@ -17,8 +17,8 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 ---
 - Email: **`muhtadinaserniabattasin@gmail.com`**
 - Telegram: **`01746137489`**
-- Me : **[See more](https://hopp.bio/muhtadina-tasin)**
-- <p><img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https%3A%2F%2Fmuhtadina.github.io" alt="muhtadina" /></p>
+
+- Me : <img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https://hopp.bio/muhtadina-tasin" alt="muhtadina" />
 
 ---
 <!-- ### Blogs posts -->
