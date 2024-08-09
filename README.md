@@ -6,6 +6,8 @@
 
 I am currently Computer Science and Engineering Student in North South University, Bangladesh. This is where I showcase uttermost projects of my academic & career life so far. I am 1DOM Amateur in the CSE field. Hope that I don't ruin another PC. May Allah bless me with sanity.
 
+Just to let you know, I randomly solve problems in **[vjudge](https://vjudge.net/user/tasin49)**, where I genuinely lose my sanity.
+
 Whatsoever, I'm also available in job-websites as in **[LinkedIn](muhtadina-tasin-62451320b) and [UpWork](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)** as a ~~jobless~~ content writer. 
 - UpWork Content Writing: [Contact Here](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)
 
