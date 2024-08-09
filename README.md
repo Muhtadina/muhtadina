@@ -1,4 +1,4 @@
-<img align="center" alt="Eyes on Muhtadina Tasin" width="1000" src="https://github.com/Muhtadina/muhtadina/assets/116006207/370781c9-84ff-4a89-bbaf-f931166356ac">
+<img align="center" alt="Eyes on Muhtadina Tasin" width="1000" src="https://github.com/user-attachments/assets/91fcafbe-ac87-4451-b126-b0b84c06bc25">
 <div style="background-color: #263238; padding: 20px;">
 <h1 align="center">This is MUHTADINA TASIN Reporting</h1>
 <h3 align="center"><i>1DOM Newbie Poetic Programmer from Bangladesh - Since 2022</i></h3>
