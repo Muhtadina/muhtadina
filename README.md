@@ -15,10 +15,11 @@ Whatsoever, I'm also available in job-websites as in **[LinkedIn](muhtadina-tasi
 Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~Attention Seeking~~ UwU Girl***
 
 ---
+<img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https://hopp.bio/muhtadina-tasin" alt="muhtadina" />
+
 - Email: **`muhtadinaserniabattasin@gmail.com`**
 - Telegram: **`01746137489`**
-
-- Me : <img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https://hopp.bio/muhtadina-tasin" alt="muhtadina" />
+- **[See more here](https://hopp.bio/muhtadina-tasin)**
 
 ---
 <!-- ### Blogs posts -->
