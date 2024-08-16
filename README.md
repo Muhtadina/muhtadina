@@ -46,3 +46,7 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhtadina&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238&locale=en&layout=compact" alt="muhtadina" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhtadina&show_icons=true&text_color=daf7dc&c&bg_color=263238&locale=en" alt="muhtadina" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muhtadina&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238&locale=en&layout=compact" alt="muhtadina" /></p>
+
+<p><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TASIN&label=Peek-A-BOO!&color=5&icon=5&pretty=true" />
+</a></p>
