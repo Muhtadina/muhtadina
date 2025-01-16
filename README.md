@@ -7,7 +7,7 @@
 
 I am currently a Computer Science and Engineering Student in North South University, Bangladesh. This is where I showcase uttermost projects of my academic & career life so far. I am 1DOM BasiK Amateur in the CSE field. Hope that I don't ruin another PC. May Allah bless me with sanity.
 
-Just to let you know, I randomly solve problems in **[vjudge](https://vjudge.net/user/tasin49)**, **[AtCoders](https://atcoder.jp/users/tasin49)** & **[Codeforces](https://vjudge.net/user/tasin49)** where I genuinely lose my sanity.
+Just to let you know, I randomly solve problems in **[vjudge](https://vjudge.net/user/tasin49)**, **[AtCoders](https://atcoder.jp/users/tasin49)** & **[Codeforces](https://codeforces.com/profile/tasin49)** where I genuinely lose my sanity.
 
 Whatsoever, I am a **Quality Assurance Officer** in **[UNIES](https://unies.com.bd)**.
 
@@ -20,6 +20,7 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 <img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https://hopp.bio/muhtadina-tasin" alt="muhtadina" />
 
 - Email: **`muhtadinaserniabattasin@gmail.com`**
+- UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`**
 - Telegram/Whatsapp: **`01746137489`**
 <!-- **[See more here](https://hopp.bio/muhtadina-tasin)**-->
 <p><a href="https://visitcount.itsvg.in">
