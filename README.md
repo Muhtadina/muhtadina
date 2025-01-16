@@ -1,15 +1,14 @@
 <img align="center" alt="Eyes on Muhtadina Tasin" width="1000" src="https://github.com/user-attachments/assets/91fcafbe-ac87-4451-b126-b0b84c06bc25">
 <div style="background-color: #263238; padding: 20px;">
 <h1 align="center">This is MUHTADINA TASIN Reporting</h1>
-<h3 align="center"><i>1DOM Newbie Poetic Programmer from Bangladesh - Since 2022</i></h3>
+<h3 align="center"><i>1DOM BasiK Newbie Poetic Programmer from Bangladesh</i></h3>
 </div>
 
-I am currently Computer Science and Engineering Student in North South University, Bangladesh. This is where I showcase uttermost projects of my academic & career life so far. I am 1DOM Amateur in the CSE field. Hope that I don't ruin another PC. May Allah bless me with sanity.
+I am currently a Computer Science and Engineering Student in North South University, Bangladesh. This is where I showcase uttermost projects of my academic & career life so far. I am 1DOM BasiK Amateur in the CSE field. Hope that I don't ruin another PC. May Allah bless me with sanity.
 
-Just to let you know, I randomly solve problems in **[vjudge](https://vjudge.net/user/tasin49)**, where I genuinely lose my sanity.
+Just to let you know, I randomly solve problems in **[vjudge](https://vjudge.net/user/tasin49)**, **[AtCoders](https://atcoder.jp/users/tasin49)** & **[Codeforces](https://vjudge.net/user/tasin49)** where I genuinely lose my sanity.
 
-Whatsoever, I'm also available in job-websites as in **[LinkedIn](muhtadina-tasin-62451320b) and [UpWork](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)** as a ~~jobless~~ content writer. 
-- UpWork Content Writing: [Contact Here](https://www.upwork.com/freelancers/~015bc5e4ea22de7ac6?mp_source=share)
+Whatsoever, I am a **Quality Assurance Officer** in **[UNIES](https://unies.com.bd)**.
 
 **I am also a Mini-Writer.** I occasionally write articles in **[MEDIUM](https://medium.com/@muhtadinatasin)**. I'm into creative writing too and so you'll find me in **[WattPad](https://www.wattpad.com/user/d_pressed_chicken#:~:text=%40-,d_pressed_chicken,-5)** too.
 - Wattpad Highlight: **[Click here](https://www.wattpad.com/story/240618128-i-found-you)**
