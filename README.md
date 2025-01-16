@@ -18,9 +18,9 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 ---
 <img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https://hopp.bio/muhtadina-tasin" alt="muhtadina" />
 
-- Email: **`tasinationalarm@gmail.com`**
-- Telegram: **`01746137489`**
-- **[See more here](https://hopp.bio/muhtadina-tasin)**
+- Email: **`muhtadinaserniabattasin@gmail.com`**
+- Telegram/Whatsapp: **`01746137489`**
+<!-- **[See more here](https://hopp.bio/muhtadina-tasin)**-->
 <p><a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=TASIN&label=Peek-A-BOO!&color=5&icon=5&pretty=true" />
 </a></p>
