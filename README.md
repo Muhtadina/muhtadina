@@ -17,15 +17,14 @@ Whatsoever, I am a **Quality Assurance Officer** in **[UNIES](https://unies.com.
 Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~Attention Seeking~~ UwU Girl***
 
 ---
-<img align="center" src="https://img.shields.io/website?label=muhtadina&style=for-the-badge&url=https://hopp.bio/muhtadina-tasin" alt="muhtadina" />
 
 - Email: **`muhtadinaserniabattasin@gmail.com`**
 - UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`**
 - Telegram/Whatsapp: **`01746137489`**
-<!-- **[See more here](https://hopp.bio/muhtadina-tasin)**-->
+<!-- **[See more here](https://hopp.bio/muhtadina-tasin)**
 <p><a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=TASIN&label=Peek-A-BOO!&color=5&icon=5&pretty=true" />
-</a></p>
+</a></p>-->
 
 ---
 <!-- ### Blogs posts -->
@@ -36,15 +35,17 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/d_pressed_chick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_pressed_chick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhtadina-tasin-62451320b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhtadina-tasin-62451320b" height="30" width="40" /></a>
 <a href="https://fb.com/muhtadinaserniabat.tasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhtadinaserniabat.tasin" height="30" width="40" /></a>
 <a href="https://instagram.com/muhtadina.tasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhtadina.tasin" height="30" width="40" /></a>
-<a href="https://medium.com/@muhtadinatasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhtadinatasin" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/9eRpA2HG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/9eRpA2HG" height="30" width="40" /></a>
+<a href="https://twitter.com/d_pressed_chick" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="d_pressed_chick" height="40" width="40" /></a>
+<a href="https://medium.com/@muhtadinatasin" target="blank"><img align="center" src="https://static.semrush.com/power-pages/media/favicons/medium-com-favicon-18758d01.png" alt="@muhtadinatasin" height="40" width="40" /></a>
+<a href="https://discord.gg/378Zfn8nut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/9eRpA2HG" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tasin49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tasin49" height="40" width="40" /></a>
+<a href="https://atcoder.jp/users/tasin49" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63050133/151978916-3b2ea906-152e-4e09-b2ed-250c08498b6d.png" alt="tasin49" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -62,8 +63,24 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhtadina&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238&locale=en&layout=compact" alt="muhtadina" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhtadina&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238&locale=en&layout=compact" alt="muhtadina" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhtadina&show_icons=true&text_color=daf7dc&c&bg_color=263238&locale=en" alt="muhtadina" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muhtadina&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238&locale=en&layout=compact" alt="muhtadina" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhtadina&show_icons=true&text_color=daf7dc&c&bg_color=263238&locale=en" alt="muhtadina" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muhtadina&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238&locale=en&layout=compact" alt="muhtadina" /></p>-->
+
+<br>
+
+## GitHub Stats:
+![](https://komarev.com/ghpvc/?username=Muhtadina&abbreviated=true&color=e91e63&style=for-the-badge&label=PEEK+A+BOO+counts+1,+2,+3,+...,+n+=)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Muhtadina&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muhtadina&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhtadina&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Muhtadina&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Muhtadina&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+---
+![Visitor Count](https://profile-counter.glitch.me/Muhtadina/count.svg)
