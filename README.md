@@ -17,7 +17,8 @@ Whatsoever, I am a **Quality Assurance Officer** in **[UNIES](https://unies.com.
 Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~Attention Seeking~~ UwU Girl***
 
 ---
-
+<a href="https://www.unies.com.bd" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/user-attachments/assets/8c2df4ab-c4c6-4e83-82fc-dacd3743430b" alt="" width="170" height="80"/> </a>
+  
 - Email: **`muhtadinaserniabattasin@gmail.com`**
 - UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`**
 - Telegram/Whatsapp: **`01746137489`**
@@ -44,22 +45,27 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 <a href="https://codeforces.com/profile/tasin49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tasin49" height="40" width="40" /></a>
 <a href="https://atcoder.jp/users/tasin49" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63050133/151978916-3b2ea906-152e-4e09-b2ed-250c08498b6d.png" alt="tasin49" height="40" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://openclipart.org/image/800px/272343" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/bootstrap/bootstrap-4096.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <!-- C -->
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- C++ -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!-- JAVA -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" alt="python" width="50" height="30"/> </a> <!-- PYT -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <!-- HTML5 -->
+<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css" width="30" height="35"/> </a> <!-- CSS -->
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <!-- PHP -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://openclipart.org/image/800px/272343" alt="javascript" width="30" height="35"/> </a> <!-- JS -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/bootstrap/bootstrap-4096.png" alt="bootstrap" width="40" height="40"/> </a> <!-- BS -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <!-- SQL -->
+<a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-2BOesYU3r68/YNrtZ_uqSXI/AAAAAAAABv8/0zOIslBh0cEmIMxvW0ePAS-RtI5piJbIQCLcBGAsYHQ/s16000/netbeans-logo-png.png" alt="netbeans" width="40" height="40"/> </a> <!-- APACHE NETBEANS -->
+<a href="https://www.codeblocks.org" target="_blank" rel="noreferrer"> <img src="https://www.unixmen.com/wp-content/uploads/2012/06/codeblocks-logo.png" alt="codeblocks" width="40" height="40"/> </a> <!-- CODEB -->
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="vs" width="40" height="40"/> </a> <!-- VS -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- GIT -->
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <!-- AI -->
+<!--<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>-->
 </p>
-
 
 
 
@@ -83,4 +89,9 @@ Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~At
 
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/Muhtadina/count.svg)
+<table border="5 px" radius="2 px">
+  <th width="1000 px"> <a><img alt="Visitors-Count" src="https://profile-counter.glitch.me/Muhtadina/count.svg"></a>
+  </th>
+</table>
+
+<!-- Muhtadina Serniabat Tasin | +88 0 1746-137489-->
