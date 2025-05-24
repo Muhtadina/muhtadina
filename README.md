@@ -1,4 +1,4 @@
-<img align="center" alt="Eyes on Muhtadina Tasin" width="1000" height="500" src="https://github.com/user-attachments/assets/5a9f1453-ebb1-4fc9-ab4d-a7de8847bbbf">
+<img align="center" alt="Eyes on Muhtadina Tasin" width="1000" src="https://github.com/user-attachments/assets/5a9f1453-ebb1-4fc9-ab4d-a7de8847bbbf">
 
 <div style="background-color: #263238; padding: 20px;">
 <h1 align="center">This is MUHTADINA TASIN Reporting</h1>
