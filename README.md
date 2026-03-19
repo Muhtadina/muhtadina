@@ -2,7 +2,7 @@
 
 <div style="background-color: #263238; padding: 20px;">
 <h1 align="center">MUHTADINA SERNIABAT TASIN</h1>
-<h3 align="center"><i>1DOM BasiK Newbie Poetic Programmer from Bangladesh</i></h3>
+<h3 align="center"><i>1DOM BasiK Brand Designer & Vibe Coder from Bangladesh</i></h3>
 </div>
 
 I am currently a Computer Science and Engineering Student in North South University, Bangladesh. This is where I showcase uttermost projects of my academic & career life so far. I am 1DOM BasiK Amateur in the CSE field. Hope that I don't ruin another PC. May Allah bless me with sanity.
@@ -15,17 +15,21 @@ I worked as a **Quality Assurance Officer** in **[UNIES](https://unies.com.bd)**
 **I am also a Mini-Writer.** I occasionally write articles in **[MEDIUM](https://medium.com/@muhtadinatasin)**. I'm into creative writing too and so you'll find me in **[WattPad](https://www.wattpad.com/user/d_pressed_chicken#:~:text=%40-,d_pressed_chicken,-5)** too.
 - Wattpad Highlight: **[Click here](https://www.wattpad.com/story/240618128-i-found-you)**
 
-Fun Fact: *I'm an **Operations Specialist** & a **Brand Designer - Graphics Designer**.*
+> [!NOTE]
+> *I'm an **Operations Specialist** & a **Brand Designer - Graphics Designer**.*
 
 
 ---
 <a href="https://www.defensivewomen.org" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/user-attachments/assets/d0ee503b-cc92-45ef-ac67-90f86fc192e2" alt="my_card" width="100" height="250"/> </a>
-  
-- Email: **`muhtadinaserniabat.official@gmail.com`**
-- Defensive Women Mail: **`info@defensivewomen.org`**
-- UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`** ```expired```
-- Telegram/Whatsapp: **`01746137489`**
-- **[See more here](https://hopp.bio/muhtadina-tasin)**
+
+> [!WARNING]
+> **Don't click on my ID Card ->**
+>
+> Email: **`muhtadinaserniabat.official@gmail.com`** </br>
+> Defensive Women Mail: **`info@defensivewomen.org`** </br>
+> UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`** ```expired``` </br>
+> Telegram/Whatsapp: **`01746137489`** </br>
+> **[See more here](https://muhtadina.github.io/branddesigner_portfolio/)** </br>
 <p><a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=TASIN&label=Peek-A-BOO!&color=5&icon=5&pretty=true" />
 </a></p>
