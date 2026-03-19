@@ -1,4 +1,4 @@
-<img align="center" alt="Eyes on Muhtadina Tasin" width="1000" src="https://github.com/user-attachments/assets/5a9f1453-ebb1-4fc9-ab4d-a7de8847bbbf">
+<img align="center" alt="Eyes on Muhtadina Tasin" width="500" src="https://github.com/user-attachments/assets/be254c58-6426-4609-bae0-d12cc8dab4ea">
 
 <div style="background-color: #263238; padding: 20px;">
 <h1 align="center">MUHTADINA SERNIABAT TASIN</h1>
@@ -9,23 +9,26 @@ I am currently a Computer Science and Engineering Student in North South Univers
 
 Just to let you know, I randomly solve problems in **[vjudge](https://vjudge.net/user/tasin49)**, **[AtCoders](https://atcoder.jp/users/tasin49)** & **[Codeforces](https://codeforces.com/profile/tasin49)** where I genuinely lose my sanity.
 
-Whatsoever, I am a **Quality Assurance Officer** in **[UNIES](https://unies.com.bd)**.
+In August 2025, I was unofficially recruited as one fo the **CEOs** in **[DEFENSIVE WOMEN](www.defensivewomen.org)**, a *Cyber Security and Cyber Awareness Organization*. Now I am officially the **Cofounder of DEFENSIVE WOMEN**. </br>
+I worked as a **Quality Assurance Officer** in **[UNIES](https://unies.com.bd)** for 6 months, then switched to **HR Department** just to work there for 3 more months.
 
 **I am also a Mini-Writer.** I occasionally write articles in **[MEDIUM](https://medium.com/@muhtadinatasin)**. I'm into creative writing too and so you'll find me in **[WattPad](https://www.wattpad.com/user/d_pressed_chicken#:~:text=%40-,d_pressed_chicken,-5)** too.
 - Wattpad Highlight: **[Click here](https://www.wattpad.com/story/240618128-i-found-you)**
 
-Fun Fact: *I'm currently learning **JAPANESE Language** & **Turning into an ~~Attention Seeking~~ UwU Girl***
+Fun Fact: *I'm an **Operations Specialist** & a **Brand Designer - Graphics Designer**.*
+
 
 ---
-<a href="https://www.unies.com.bd" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/user-attachments/assets/8c2df4ab-c4c6-4e83-82fc-dacd3743430b" alt="" width="170" height="80"/> </a>
+<a href="https://www.defensivewomen.org" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/user-attachments/assets/d0ee503b-cc92-45ef-ac67-90f86fc192e2" alt="my_card" width="100" height="250"/> </a>
   
-- Email: **`muhtadinaserniabattasin@gmail.com`**
-- UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`**
+- Email: **`muhtadinaserniabat.official@gmail.com`**
+- Defensive Women Mail: **`info@defensivewomen.org`**
+- UNIES Mail: **`muhtadinaserniabattasin.qa@unies.com.bd`** ```expired```
 - Telegram/Whatsapp: **`01746137489`**
-<!-- **[See more here](https://hopp.bio/muhtadina-tasin)**
+- **[See more here](https://hopp.bio/muhtadina-tasin)**
 <p><a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=TASIN&label=Peek-A-BOO!&color=5&icon=5&pretty=true" />
-</a></p>-->
+</a></p>
 
 ---
 <!-- ### Blogs posts -->
